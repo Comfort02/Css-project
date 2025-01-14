@@ -56,21 +56,21 @@ body {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image:url("images/gift pack.png") ;
+    background-image:url("gift pack.png") ;
     background-size: cover;
   margin: 0 auto;
   }
  
 #gift-img-happy:hover{
-  background-image: url("images/lovely.webp");
+  background-image: url("lovely.webp");
 }
 
 #gift-img-hot:hover{
-  background-image: url("images/hot\ gift.webp");
+  background-image: url("hot\ gift.webp");
 }
 
 #gift-img-badass:hover{
-  background-image: url("images/badass-gift.webp");
+  background-image: url("badass-gift.webp");
 }
 #gift-img-badass{
   height: 200px;
